@@ -9,7 +9,8 @@ npx react-native start ( To start metro)
 npx react-native run-android ( To start the application)
 
 The Screenshots after completing the objectives of Assignment 1 are shown below:
-![image](https://user-images.githubusercontent.com/84237347/123507605-06a05800-d688-11eb-9a41-5dba651d6290.png)
+
+![image](https://user-images.githubusercontent.com/84237347/123507698-6bf44900-d688-11eb-90d4-fa7743026cd7.png)
 
 ![image](https://user-images.githubusercontent.com/84237347/123507633-1d46af00-d688-11eb-874a-ded3148be484.png)
 
