@@ -1,6 +1,7 @@
 # Assignment-1
 Assignment 1 for Android club\
 This assignment involves setting up react native on the system\ 
+\
 After assigning the required home variables according to the required paths\
 \
 We now use the following commands in the visual code environment :\
