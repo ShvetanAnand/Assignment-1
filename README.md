@@ -15,8 +15,9 @@ npx react-native run-android ( To start the application)\
 \
 The Screenshots after completing the objectives of Assignment 1 are shown below:
 \
-![image](https://user-images.githubusercontent.com/84237347/123507698-6bf44900-d688-11eb-90d4-fa7743026cd7.png)
+![image](https://user-images.githubusercontent.com/84237347/123511961-46743900-d6a2-11eb-88fc-d3dfba388673.png)
 \
-![image](https://user-images.githubusercontent.com/84237347/123507633-1d46af00-d688-11eb-874a-ded3148be484.png)
-\
-![image](https://user-images.githubusercontent.com/84237347/123507657-33ed0600-d688-11eb-91c2-72a1e4eb13cb.png)
+![image](https://user-images.githubusercontent.com/84237347/123511970-5724af00-d6a2-11eb-99ce-7854f5744d47.png)
+![image](https://user-images.githubusercontent.com/84237347/123511986-74f21400-d6a2-11eb-8884-4b6c49eb4a1d.png)
+
+
