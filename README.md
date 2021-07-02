@@ -13,6 +13,8 @@ npx react-native init AwesomeProject (Creating new application)\
 npx react-native start ( To start metro)\
 npx react-native run-android ( To start the application)\
 \
+Apart from the screenshots shown here a full demo video of the app is uploaded in : https://youtu.be/SOz2UYi_5U0
+\
 The Screenshots after completing the objectives of Assignment 1 are shown below:
 \
 ![image](https://user-images.githubusercontent.com/84237347/123511961-46743900-d6a2-11eb-88fc-d3dfba388673.png)
